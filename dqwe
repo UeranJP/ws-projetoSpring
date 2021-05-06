@@ -1,0 +1,41 @@
+[33mcommit ee73aab92a696e446513dc4c5153e6f98445f4f0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: UeranJP <ueran.piazza@gmail.com>
+Date:   Thu May 6 19:20:35 2021 -0300
+
+    Domain model/ Database Seed
+
+[33mcommit abfdd9d09befa3695263dfbfb50f878d08df41be[m
+Author: UeranJP <ueran.piazza@gmail.com>
+Date:   Thu May 6 18:58:04 2021 -0300
+
+    Add Security Config
+
+[33mcommit a2c2bf2382d680d810f144382cf2765ef93aaa6d[m
+Author: UeranJP <ueran.piazza@gmail.com>
+Date:   Wed May 5 11:24:52 2021 -0300
+
+    Add Static Charts
+
+[33mcommit f75e3aec50907c766eaf18e959c6aff55ef1a433[m
+Author: UeranJP <ueran.piazza@gmail.com>
+Date:   Wed May 5 11:09:22 2021 -0300
+
+    Basic Static Components
+
+[33mcommit 5150e53c5b4ec1b23e9db40a0faa3de6fb807a46[m
+Author: UeranJP <ueran.piazza@gmail.com>
+Date:   Wed May 5 10:49:10 2021 -0300
+
+    Add Bootstrap
+
+[33mcommit 72608eab6c0b948654c8ab7a260b8bb1843dee46[m
+Author: UeranJP <ueran.piazza@gmail.com>
+Date:   Wed May 5 10:18:29 2021 -0300
+
+    Project Clean
+
+[33mcommit 8914431f09b5f6a19eb2a95def307fb8c362471f[m
+Author: UeranJP <ueran.piazza@gmail.com>
+Date:   Wed May 5 09:58:09 2021 -0300
+
+    Project Created
