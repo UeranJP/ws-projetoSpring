@@ -5,8 +5,8 @@ import { BrowserRouter, Route, Switch} from 'react-router-dom';
 const Routes = () => {
     return (
         <BrowserRouter>
-            <Switch >
-                
+            <Switch>
+
                 <Route path="/" exact>
                     <Home />
                 </Route>
